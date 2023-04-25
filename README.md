@@ -1,3 +1,19 @@
+<div id="header" align="center">
+  <img src="https://media4.giphy.com/media/XxmK7dzlBRAYbMsRe8/giphy.gif?cid=ecf05e47kx215lezk70zutrcx9dshcf6jnmd0yxfrbwzcpza&rid=giphy.gif&ct=s" width="300">
+</div>
+
+<div align="center">
+<a href="https://github.com/mensur056">
+    <img src="https://media.giphy.com/media/WLI9aB0Hvw8jEUjlN8/giphy.gif" width="200" alt="LinkedIn Badge"/>
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif" width="600" height="300"/>
+</div>
+<hr>
+<div>
+
 <h1 align="left">Hey 👋 What's up?</h1>
 
 ###
@@ -81,7 +97,5 @@
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/nasiblis/nasiblis/blob/output/snake.svg" alt="Snake animation" />
 
 ###
